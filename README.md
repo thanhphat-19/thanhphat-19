@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">AI Engineer</h3>
+<h1 align="center">Hi everyon 👋, I'm Robert</h1>
+<h3 align="center">AI/ML Engineer</h3>
 
 - 🔭 I’m currently working on **Machine Learning Engineer**
 
