@@ -1,13 +1,13 @@
-<h1 align="center">Hi everyon 👋, I'm Robert</h1>
+<h1 align="center">Hi everyone 👋, I'm Robert</h1>
 <h3 align="center">AI/ML Engineer</h3>
 
 - 🔭 I’m currently working on **Machine Learning Engineer**
 
-- 👨‍💻 All of my projects are available at https://github.com/RobertNgo19?tab=repositories
+- 👨‍💻 All of my projects are available at: https://github.com/RobertNgo19?tab=repositories
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Computer Vision, Natural Languages Processing**
 
-- 📫 How to reach me **Thanhphat352@gmail.com**
+- 📫 How to reach me: **Thanhphat352@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
