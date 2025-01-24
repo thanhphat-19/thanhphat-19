@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Computer Vision, Natural Languages Processing**
 
-- 📫 How to reach me: **Thanhphat352@gmail.com**
+- 📫 How to reach me: **[Thanh Phat Ngo](https://www.linkedin.com/in/thphat19/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
