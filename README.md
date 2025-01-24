@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone 👋, I'm Robert</h1>
+<h1 align="center">Hi everyone 👋, I'm Phat Ngo</h1>
 <h3 align="center">AI/ML Engineer</h3>
 
 - 🔭 I’m currently working on **Machine Learning Engineer**
