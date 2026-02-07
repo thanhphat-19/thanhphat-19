@@ -1,17 +1,16 @@
-<h1 align="center">Hi everyone 👋, I'm Martin</h1>
-<h3 align="center">AI/ML Engineer</h3>
+<h1 align="center">Hi everyone 👋, I'm Phat Ngo</h1>
+<h3 align="center">AI Engineer</h3>
 
 - 🔭 I’m currently working on **Machine Learning Engineer**
 
-- 👨‍💻 All of my projects are available at: https://github.com/RobertNgo19?tab=repositories
+- 👨‍💻 All of my projects are available at: https://github.com/thanhphat-19?tab=repositories
 
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, Computer Vision, Natural Languages Processing, LLMs**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, LLMs**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/thphat19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alight="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100006542790480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuilatung2001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
