@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone 👋, I'm Phat Ngo</h1>
 <h3 align="center">AI Engineer</h3>
 
-- 🔭 I’m currently working on **AIAI Engineer**
+- 🔭 I’m currently working on **AI Engineer**
 
 - 👨‍💻 All of my projects are available at: https://github.com/thanhphat-19?tab=repositories
 
